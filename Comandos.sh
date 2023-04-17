@@ -6,7 +6,7 @@ pip freeze > requirements.sh
 python -m virtualenv env
 
 # Comand for activate the virtualenv
-source venv\bin\activate
+source venv\Scripts\activate
 
 
 # comand for install requirements
