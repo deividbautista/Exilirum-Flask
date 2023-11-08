@@ -11,3 +11,6 @@
 - [HyperUI](https://hyperui.dev/)
 - [Kutty](https://kutty.netlify.app/)
 - [Tailblocks](https://mertjf.github.io/tailblocks/)
+
+* Capitan Dureza🧑‍🔧 Mockup
+* Asabache ----undefined * Floritoz ---i
