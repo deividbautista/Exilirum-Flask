@@ -31,7 +31,7 @@ html {
     width: 8rem;
     position: absolute;
     left: calc(50% - 40px);
-    top: 3rem;
+    top: calc(50% - 250px);
 }
 
 .login-container {
